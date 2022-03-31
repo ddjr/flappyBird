@@ -29,7 +29,7 @@ window.onload = function() {
       bird.speed -= bird.lift;
     }
   });
-}
+} 
 
 function reset() {
   score = -1;
